@@ -1,8 +1,8 @@
 # Site settings
 title: Yonghui Li (Aries)
 description: Man, Husband, Father, Son, Data Scientist
-github_username: lyh710
-# linkedin_username: yonghui-li
+footer_links:
+    linkedin_username: yonghui-li
 
 # Build settings
 theme: jekyll-theme-cayman
