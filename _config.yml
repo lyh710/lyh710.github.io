@@ -1,13 +1,12 @@
+# Build settings
+# theme: jekyll-theme-cayman
+theme: minima
+
 # Site settings
 title: Yonghui Li (Aries)
 description: Man, Husband, Father, Son, Data Scientist
 
-# Build settings
-theme: jekyll-theme-cayman
-
-# Social
-social:
-    - title: "github"
-      url: "https://github.com/lyh710"
-    - title: "linkedin"
-      url: "https://www.linkedin.com/in/yonghui-li/"
+minima:
+    social_links:
+      github: lyh710
+      linkedin: yonghui-li
