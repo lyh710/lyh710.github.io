@@ -7,6 +7,4 @@ PhD in machine learning since 2016, after nearly 10 years of research regarding 
 ### Perosnal Projects 
 ![alt text](images/dnn_hello_world.jpeg) Demo of how to [setup & test GPU conda development environment for DNN work with your Win10 laptop](https://github.com/lyh710/dnn_gpu_setup_test), and [a quick demonstration of GPU uplift regarding DNN turn around using public dataset](https://github.com/lyh710/dnn_gpu_hello_world)
 
-[1]: https://github.com/lyh710
-[2]: https://www.linkedin.com/in/yonghui-li/
-Follow me on [![alt text](icons/github.png)[1]]  [![alt text](icons/linkedin.png)[2]
+Follow me on [![alt text](icons/github.png)](https://github.com/lyh710) [![alt text](icons/linkedin.png)](https://www.linkedin.com/in/yonghui-li)
