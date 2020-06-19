@@ -9,7 +9,7 @@ PhD in machine learning since 2016, after nearly 10 years of researching brain d
 
 <br/><br/>
 
-**[Academic Publications](https://scholar.google.com/citations?user=sukavDAAAAAJ&hl=en&oi=sra)**
+[Academic Publications](https://scholar.google.com/citations?user=sukavDAAAAAJ&hl=en&oi=sra)
 
 <br/><br/>
 
