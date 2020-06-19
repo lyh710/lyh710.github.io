@@ -7,7 +7,7 @@ PhD in machine learning since 2016, after nearly 10 years of research regarding 
 ### Data Science Projects 
 <!-- ![alt text](images/dnn_hello_world_resize.jpeg) Demo of how to [setup & test GPU conda development environment for DNN work with your Win10 laptop](https://github.com/lyh710/dnn_gpu_setup_test), and [a quick demonstration of GPU uplift regarding DNN turn around using public dataset](https://github.com/lyh710/dnn_gpu_hello_world) -->
 
-<img align="left" width="150" height="100" src="images/dnn_hello_world_resize.jpeg"> Deep learning with GPU [setup & test with Win10 laptop](https://github.com/lyh710/dnn_gpu_setup_test), and [hello-world using public dataset](https://github.com/lyh710/dnn_gpu_hello_world)    
+<img align="left" width="150" height="100" src="images/dnn_hello_world_resize.jpeg"> Deep learning with GPU [setup & test with Win10 laptop](https://github.com/lyh710/dnn_gpu_setup_test), and [hello-world using public dataset](https://github.com/lyh710/dnn_gpu_hello_world).    
 
 
 Follow me on [![alt text](icons/github.png)](https://github.com/lyh710) [![alt text](icons/linkedin.png)](https://www.linkedin.com/in/yonghui-li)
