@@ -9,4 +9,4 @@ PhD in machine learning since 2016, after nearly 10 years of research regarding 
 
 <br/><br/>
 
-Follow me on [![alt text](icons/github.png)](https://github.com/lyh710) [![alt text](icons/linkedin.png)](https://www.linkedin.com/in/yonghui-li)
+**Follow me on** [![alt text](icons/github.png)](https://github.com/lyh710) [![alt text](icons/linkedin.png)](https://www.linkedin.com/in/yonghui-li)
