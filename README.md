@@ -7,6 +7,9 @@ PhD in machine learning since 2009, after nearly 10 years of researching brain d
 ### Data Science Projects 
 <img align="left" width="75" height="50" src="images/dnn_hello_world_resize.jpeg"> Deep learning with GPU [setup & test with Win10 laptop](https://github.com/lyh710/dnn_gpu_setup_test), and [hello-world using public dataset](https://github.com/lyh710/dnn_gpu_hello_world).
 
+### Kaggle
+<img align="left" width="75" height="50" src="images/kaggle_pneumothorax.jpeg"> [Kaggle competition for Pneunomthorax detection, using Deep-Learning] (https://github.com/lyh710/kaggle.pneumothorax).
+
 <br/><br/>
 
 [Academic Publications](https://scholar.google.com/citations?user=sukavDAAAAAJ&hl=en&oi=sra)
