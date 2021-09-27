@@ -7,7 +7,7 @@ PhD in machine learning since 2009, after nearly 10 years of researching brain d
 <img align="left" width="75" height="50" src="images/deep_learning_resize.jpg"> Deep learning with GPU [setup & test with Win10 laptop](https://github.com/lyh710/dnn_gpu_setup_test) and [hello-world using public dataset](https://github.com/lyh710/dnn_gpu_hello_world).
 
 <br/><br/>
-<img align="left" width="65" height="75" src="images/music_symbol_resize.png"> [Automaic Piano Generation](https://github.com/lyh710/deep_piano) based on Deep-Learning
+<img align="left" width="65" height="75" src="images/music_symbol_resize.png"> [Automaic Piano Music Generation](https://github.com/lyh710/deep_piano) based on Deep-Learning
 
 <br/><br/>
 ### Kaggle
